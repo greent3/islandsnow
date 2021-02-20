@@ -4,3 +4,7 @@
   box-shadow: none;
 }
 
+.ui.borderless.midmenu.menu{
+  border: none;
+  box-shadow: none;
+}
